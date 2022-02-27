@@ -8,7 +8,7 @@
 
 ### Background
 
- To increase their client portfolio, especially by engaging young people. Since machine learning and NLP are disrupting finance to improve customer experience, creating a robo advisor that could be used by customers or potential new customers to get investment portfolio recommendations for retirement.
+ To increase client portfolio, especially by engaging young people. Since machine learning and NLP are disrupting finance to improve customer experience, creating a robo advisor that could be used by customers or potential new customers to get investment portfolio recommendations for retirement.
 
 In this repository, Amazon Web Services and  Python skills are used to create a bot that will recommend an investment portfolio for a retirement plan.
 
